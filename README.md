@@ -6,3 +6,5 @@ git add
 git commit -m
 git restore
 ```
+第一次进入Git
+第二次进入Git
